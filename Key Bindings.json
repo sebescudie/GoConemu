@@ -1,0 +1,3 @@
+[
+	{ "keys": ["Alt+Shift+C"], "command": "go_conemu" }
+]
