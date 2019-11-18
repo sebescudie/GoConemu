@@ -1,4 +1,5 @@
 from fman import DirectoryPaneCommand, show_alert
+from fman.url import as_human_readable
 import subprocess
 
 class GoConemu(DirectoryPaneCommand):
