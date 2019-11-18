@@ -11,3 +11,7 @@ Simply press ALT+SHIFT+C to open the directory you're in in a new Conemu window
 
 This plugin assumes that ConEmu executable is located at `C:\Program Files\ConEmu\ConEmu64.exe`. Please 
 report if something goes wrong.
+
+## Contributors
+
+- [thesonofugly](https://github.com/thesonofugly)
